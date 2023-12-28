@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9tq3m9x2f0f2l09h?svg=true)](https://ci.appveyor.com/project/TinitaQA/rest-api)
